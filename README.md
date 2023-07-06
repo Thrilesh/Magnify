@@ -1,6 +1,6 @@
-# Magnify
+# Django CRUD Operations and REST APIs 
 
-**Django CRUD Operations and REST APIs**
+
 This project demonstrates the implementation of CRUD (Create, Read, Update, Delete) operations using Django and the creation of REST APIs with authentication.
 
 **Installation**
